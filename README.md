@@ -3,6 +3,7 @@ Django + PostgreSQL in Docker-Compose
 
 ### Commands to run in terminal:
 docker-compose build
+
 docker-compose up
 
 ### Then check:
